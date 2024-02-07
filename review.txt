@@ -1,4 +1,4 @@
-
+Adi:
     Functionality of the Vue.js component : 4/4
     Effectiveness of the UI/UX : 2/2
     Code cleanliness and organization: 2/2
