@@ -1,0 +1,46 @@
+{
+    "assignments": [
+      {
+        "id": 1,
+        "title": "Movie Project",
+        "dueDate": "24 Feb, 2024",
+        "daysRemaining": 18,
+        "PercentComplete": 70
+      },
+      {
+        "id": 2,
+        "title": "Portfolio",
+        "dueDate": "1 April, 2024",
+        "daysRemaining": 53,
+        "PercentComplete": 1
+      },
+      {
+        "id": 3,
+        "title": "Food Explorer",
+        "dueDate": "24 Feb, 2024",
+        "daysRemaining": 18,
+        "PercentComplete": 70
+      },
+      {
+        "id": 4,
+        "title": "DeckMaster WebSite",
+        "dueDate": "11 Feb, 2024",
+        "daysRemaining": 5,
+        "PercentComplete": 90
+      },
+      {
+        "id": 5,
+        "title": "Group Project, Bubble Tea Website",
+        "dueDate": "1 April, 2024",
+        "daysRemaining": 53,
+        "PercentComplete": 30
+      },
+      {
+        "id": 6,
+        "title": "Assignment Tracker",
+        "dueDate": "6 Feb, 2024",
+        "daysRemaining": 0,
+        "PercentComplete": 100
+      }
+    ]
+  }
